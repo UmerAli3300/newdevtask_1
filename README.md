@@ -1,5 +1,7 @@
-**Bank Term Deposit Prediction (Marketing Campaign Analysis) 
-**
+****Bank Term Deposit Prediction (Marketing Campaign Analysis) 
+****
+
+
 This project predicts whether a customer will subscribe to a term deposit based on a Portuguese bank’s marketing campaign data. Built using machine learning and explainable AI (XAI), this end-to-end solution demonstrates data preprocessing, model training, evaluation, and interpretation. 
 Objective 
 
